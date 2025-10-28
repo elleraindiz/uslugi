@@ -100,7 +100,7 @@ background: var(--accent-color);
  header{
     height: 900px;
     background: linear-gradient(#0000 65%, var(--bg-color))
-     ,url(../fon.png);
+     ,url(../images/fon.png);
     background-size: cover;
     background-position: center top;
  }
@@ -118,3 +118,4 @@ background: var(--accent-color);
     margin-bottom: 56px;
 
  }
+
